@@ -1,5 +1,6 @@
 import React from 'react'
 import './ChatMessage.css'
+import Avatar from '../../assets/avatar'
 
 const ChatMessage = ({message}) =>{
   return(
